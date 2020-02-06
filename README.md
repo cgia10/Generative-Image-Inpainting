@@ -17,6 +17,6 @@ An autoencoder with partial convolution downsampling, skip connections, and near
 
 <img src="Results/Architecture.png"/>
 
-Results:
+## Results:
 
 <img src="Results/Results.png"/>

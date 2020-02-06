@@ -12,7 +12,7 @@ Image masks were generated using a random walk model, and applied to the patches
 
 <img src="Results/Masks.png"/>
 
-## Model architecture
+## Model Architecture
 An autoencoder with partial convolution downsampling, skip connections, and nearest-neighbour upsampling was implemented. Content, style, and variation losses were used.
 
 <img src="Results/Architecture.png"/>

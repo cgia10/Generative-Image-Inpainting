@@ -1,0 +1,3 @@
+Dunhuang Grottoes Painting Dataset:
+If participants would like to use dataset in this challenge to produce academic outputs, this document must be cited: 
+[1] "Dunhuang Grottoes Painting Dataset and Benchmark", Tianxiu Yu, Cong Lin, Shijie Zhang, Shaodi You*, Jian Wu, Jiawan Zhang, Xiaohong Ding, Huili An, arXiv:1907.04589 
